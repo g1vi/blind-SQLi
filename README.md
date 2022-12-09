@@ -6,7 +6,7 @@ Tested on mysql 8 + php 7.4.3
 ### Non-interactive shells
 
 ```python
-python3 blindSQLI.py
+python3 blindSQLi.py
 ```
 
 Edit credentials in line 11 and column names in line 25 to adapt the script to any specific target db
@@ -14,7 +14,7 @@ Edit credentials in line 11 and column names in line 25 to adapt the script to a
 ### interactive shells
 
 ```python
-python3 iblindSQLI.py
+python3 iblindSQLi.py
 ```
 
 The target url is intertactively prompted  
