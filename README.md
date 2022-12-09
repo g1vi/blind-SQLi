@@ -11,7 +11,7 @@ python3 blindSQLi.py
 
 Edit credentials in line 11 and column names in line 25 to adapt the script to any specific target db
 
-### interactive shells
+### Interactive shells
 
 ```python
 python3 iblindSQLi.py
