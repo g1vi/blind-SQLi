@@ -25,3 +25,5 @@ Example:
 Enter target URL: http://localhost:5000/news.php?id=1
 ```
 
+### License
+Feel free to use or modify whenever and wherever you like
